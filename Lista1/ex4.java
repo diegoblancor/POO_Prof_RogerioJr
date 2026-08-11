@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Q4 {
+public class ex4 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int[] vetor = new int[10];
