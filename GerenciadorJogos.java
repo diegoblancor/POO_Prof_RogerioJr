@@ -4,7 +4,7 @@ public class GerenciadorJogos {
     public static void main(String[] args) {
         Scanner leia = new Scanner(System.in);
 
-        final int LIMITE = 100;
+        final int LIMITE = 6;
         String[] jogos = new String[LIMITE];
         int totalJogos = 0;
 
