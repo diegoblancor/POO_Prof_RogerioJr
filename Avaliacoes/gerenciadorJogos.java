@@ -1,10 +1,11 @@
+package Avaliacoes;
 import java.util.Scanner;
 
-public class GerenciadorJogos {
+public class gerenciadorJogos {
     public static void main(String[] args) {
         Scanner leia = new Scanner(System.in);
 
-        final int LIMITE = 6;
+        final int LIMITE = 4;
         String[] jogos = new String[LIMITE];
         int totalJogos = 0;
 
