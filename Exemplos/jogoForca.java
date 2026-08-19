@@ -2,7 +2,7 @@ package Exemplos;
 import java.util.Random;
 import java.util.Scanner;
 
-public class JogoForca {
+public class jogoForca {
     static void main(){
         String [] listaPalavras = {"JAVA","COMPUTADOR","MONITOR","PYTHON", "DADOS"};
         
