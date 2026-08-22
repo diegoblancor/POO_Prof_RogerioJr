@@ -1,4 +1,4 @@
-package Exemplos;
+package Exercicios;
 
 public class matriz {
 

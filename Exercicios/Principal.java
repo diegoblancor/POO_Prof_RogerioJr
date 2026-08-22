@@ -1,6 +1,4 @@
-package Exemplos;
-
-import java.util.Scanner;
+package Exercicios;
 
 public class Principal {
 

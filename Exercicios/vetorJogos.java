@@ -1,4 +1,4 @@
-package Exemplos;
+package Exercicios;
 import java.util.Scanner;
 
 public class vetorJogos {    
