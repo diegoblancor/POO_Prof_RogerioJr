@@ -20,12 +20,15 @@ public class SistemaProcedural {
             } else {
                 return "Reprovado";
             }
-        }
+        
 
             for (int i = 0; i < 3; i++) {
+                double[] notas1;
+                double[] notas2;
                 double media = calcularMedia(notas1[i], notas2[i]);
                 String situacao = verificarSituacao(media);
 
+                Object[] nomes;
                 System.out.printf("Aluno: | Media: | Situacao: ", nomes[i], media, situacao);
             }
         }
