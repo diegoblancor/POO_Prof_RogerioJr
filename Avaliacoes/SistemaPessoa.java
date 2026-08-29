@@ -19,19 +19,8 @@ public class SistemaPessoa {
             System.out.println("Digite a altura da pessoa: ");
             double altura = leia.nextDouble();
             leia.nextLine();
-
-
-
-
-
-
         }
 
-
-
     }
-
-
-
 
 }
